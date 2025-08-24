@@ -11,7 +11,7 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'ёпта!',
+	name: 'отец',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '55.813126',
-	defaultLongitude: '37.820151',
+	defaultLatitude: '55.81',
+	defaultLongitude: '37.82',
 
 	// Autochange
 	autoChangeTheme: false,

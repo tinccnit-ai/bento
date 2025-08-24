@@ -196,7 +196,7 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Хуйня',
-					link: 'https://www.spotify.com',
+					link: 'https://store.steampowered.com/',
 				},
 				{
 					name: 'Hashnode',

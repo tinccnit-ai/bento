@@ -144,7 +144,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Карты',
-					link: 'https://yandex.ru/maps/',
+					link: 'https://yandex.com/maps/',
 				},
 				{
 					name: 'Еда',
@@ -152,7 +152,11 @@ const CONFIG = {
 				},
 				{
 					name: 'Переводчик',
-					link: 'https://translate.yandex.ru/',
+					link: 'https://translate.yandex.com/',
+				},
+				{
+					name: 'Музыка',
+					link: 'https://music.yandex.com/',
 				},
 			],
 		},

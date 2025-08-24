@@ -135,24 +135,28 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'house',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Яндекс Почта',
+					link: 'https://mail.yandex.com/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Яндекс Карты',
+					link: 'https://yandex.ru/maps/',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Яндекс Еда',
+					link: 'https://eda.yandex.ru/',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Яндекс Телемост',
+					link: 'https://telemost.yandex.ru/',
+				},
+				{
+					name: 'Яндекс Переводчик',
+					link: 'https://translate.yandex.ru/',
 				},
 			],
 		},

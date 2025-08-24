@@ -139,46 +139,46 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Яндекс Почта',
+					name: 'Почта',
 					link: 'https://mail.yandex.com/',
 				},
 				{
-					name: 'Яндекс Карты',
+					name: 'Карты',
 					link: 'https://yandex.ru/maps/',
 				},
 				{
-					name: 'Яндекс Еда',
+					name: 'Еда',
 					link: 'https://eda.yandex.ru/',
 				},
 				{
-					name: 'Яндекс Телемост',
-					link: 'https://telemost.yandex.ru/',
-				},
-				{
-					name: 'Яндекс Переводчик',
+					name: 'Переводчик',
 					link: 'https://translate.yandex.ru/',
 				},
 			],
 		},
 		{
-			icon: 'coffee',
+			icon: 'eye',
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'hltv',
+					link: 'https://www.hltv.org/',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'habr',
+					link: 'https://habr.com/ru/articles/top/weekly/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'reddit',
+					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'twitch',
+					link: 'https://www.twitch.tv/',
+				},
+				{
+					name: 'youtube',
+					link: 'https://www.youtube.com/',
 				},
 			],
 		},
@@ -195,10 +195,6 @@ const CONFIG = {
 					link: 'https://www.spotify.com',
 				},
 				{
-					name: 'Reddit',
-					link: 'https://www.reddit.com',
-				},
-				{
 					name: 'Hashnode',
 					link: 'https://www.hashnode.com',
 				},
@@ -209,24 +205,28 @@ const CONFIG = {
 			],
 		},
 		{
-			icon: 'github',
+			icon: 'bolt',
 			id: '2',
 			links: [
 				{
-					name: 'Front',
-					link: 'https://www.reddit.com/r/Frontend/',
+					name: 'about:about',
+					link: 'about:about',
 				},
 				{
-					name: 'Rust',
-					link: 'https://www.reddit.com/r/rust/',
+					name: 'about:preferences',
+					link: 'about:preferences',
 				},
 				{
-					name: 'Go',
-					link: 'https://www.reddit.com/r/golang/',
+					name: 'about:config',
+					link: 'about:config',
 				},
 				{
-					name: 'Repos',
-					link: 'https://github.com/migueravila',
+					name: 'about:profiles',
+					link: 'about:profiles',
+				},
+				{
+					name: 'bento',
+					link: 'https://github.com/tinccnit-ai/bento',
 				},
 			],
 		},

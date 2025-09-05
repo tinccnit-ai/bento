@@ -182,9 +182,13 @@ const CONFIG = {
 				},
 			],
 		},
+	],
+
+	// Second Links Container
+	secondListsContainer: [
 		{
 			icon: 'book-open-text',
-			id: '3',
+			id: '1',
 			links: [
 				{
 					name: 'hltv',
@@ -202,27 +206,9 @@ const CONFIG = {
 					name: 'liquipedia',
 					link: 'https://liquipedia.net/',
 				},
-			],
-		},
-	],
-
-	// Second Links Container
-	secondListsContainer: [
-		{
-			icon: 'binary',
-			id: '1',
-			links: [
 				{
 					name: 'Хуйня',
 					link: 'https://store.steampowered.com/',
-				},
-				{
-					name: 'Hashnode',
-					link: 'https://www.hashnode.com',
-				},
-				{
-					name: 'Pocket',
-					link: 'https://www.pocket.com',
 				},
 			],
 		},

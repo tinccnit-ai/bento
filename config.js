@@ -11,16 +11,16 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'отец',
+	name: '',
 	imageBackground: false,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
 	// Greetings
-	greetingMorning: 'Здорова,',
-	greetingAfternoon: 'Здорова,',
-	greetingEvening: 'Здорова,',
-	greetingNight: 'Здорова,',
+	greetingMorning: 'Здорова',
+	greetingAfternoon: 'Здорова',
+	greetingEvening: 'Здорова',
+	greetingNight: 'Здорова',
 
 	// Layout
 	bentoLayout: 'lists', // 'bento', 'lists', 'buttons'
@@ -165,6 +165,28 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
+					name: 'twitch',
+					link: 'https://www.twitch.tv/',
+				},
+				{
+					name: 'youtube',
+					link: 'https://www.youtube.com/',
+				},
+				{
+					name: 'kinopoisk',
+					link: 'https://www.kinopoisk.ru/',
+				},
+				{
+					name: 'rutracker',
+					link: 'https://rutracker.org/forum/index.php',
+				},
+			],
+		},
+		{
+			icon: 'book-open-text',
+			id: '3',
+			links: [
+				{
 					name: 'hltv',
 					link: 'https://www.hltv.org/',
 				},
@@ -177,12 +199,8 @@ const CONFIG = {
 					link: 'https://www.reddit.com',
 				},
 				{
-					name: 'twitch',
-					link: 'https://www.twitch.tv/',
-				},
-				{
-					name: 'youtube',
-					link: 'https://www.youtube.com/',
+					name: 'liquipedia',
+					link: 'https://liquipedia.net/',
 				},
 			],
 		},
